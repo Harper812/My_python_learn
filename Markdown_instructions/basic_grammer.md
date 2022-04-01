@@ -129,9 +129,9 @@ print(np.zeros([10,10]))
 
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "这是图片说明：RUNOOB")
 
-![My Github头像](C://Users//42189//Desktop//1646395503.jpg "My Github profile picture")
+![My Github头像](./1646395503.jpg "My Github profile picture")
 
-<img src="C://Users//42189//Desktop//1646395503.jpg" width='50%' height='30%' alt="图片名称" align=center/>
+<img src="./1646395503.jpg" width='50%' height='30%' alt="图片名称" align=center/>
 
 这个链接用 1 作为网址变量 [RUNOOB][2].
 然后在文档的结尾为变量赋值（网址）
