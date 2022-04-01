@@ -107,12 +107,15 @@ print(np.zeros([10,10]))
 ```
 
 链接：
+
 这是一个链接 [Harper的Github仓库](https://github.com/Harper812)
 
 直接使用链接：
+
 <https://github.com/Harper812>
 
 高级链接：
+
 这个链接用 1 作为网址变量 [Google]  [1]
 这个链接用 runoob 作为网址变量 [Runoob][runoob]
 然后在文档的结尾为变量赋值（网址）
@@ -121,6 +124,7 @@ print(np.zeros([10,10]))
 [runoob]: http://www.runoob.com/
 
 图片：
+
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
 
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "这是图片说明：RUNOOB")
@@ -147,12 +151,14 @@ print(np.zeros([10,10]))
 | 单元格 | 单元格 |  单元格  |
 
 支持的HTML元素：
+
 使用 <kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd> 重启电脑
 
 **文本加粗** 
 \*\* 正常显示星号 \*\*
 
 公式：
+
 $ f(x) = sin(x) + cos(x)$
 
 $$
@@ -161,6 +167,7 @@ $$
    c & d
 \end{Bmatrix}
 $$
+
 $$
 \begin{CD}
    A @>a>> B \\
