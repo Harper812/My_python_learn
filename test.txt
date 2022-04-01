@@ -3,3 +3,4 @@
 test
 mine python
 hello world!
+直接使用git -a指令，不用再add，直接 commit
