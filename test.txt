@@ -4,3 +4,7 @@ test
 mine python
 hello world!
 直接使用git -a指令，不用再add，直接 commit
+删除暂存区的文件：
+git rm --cached [file]
+删除工作区和暂存区的文件：
+git rm [file]
